@@ -24,4 +24,4 @@ Use comments to document what is happening in your programs and to leave notes f
 
 
 
-# Hello world, again
+# Hello world, again (with input)
